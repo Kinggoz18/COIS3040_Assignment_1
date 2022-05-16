@@ -1,0 +1,34 @@
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.csproj.AssemblyReference.cache
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.AssemblyInfoInputs.cache
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.AssemblyInfo.cs
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.csproj.CoreCompileInputs.cache
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\bin\Debug\net6.0\SupportQuestionsApplication.exe
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\bin\Debug\net6.0\SupportQuestionsApplication.deps.json
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\bin\Debug\net6.0\SupportQuestionsApplication.runtimeconfig.json
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\bin\Debug\net6.0\SupportQuestionsApplication.dll
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\bin\Debug\net6.0\ref\SupportQuestionsApplication.dll
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\bin\Debug\net6.0\SupportQuestionsApplication.pdb
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.csproj.CopyComplete
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.dll
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\ref\SupportQuestionsApplication.dll
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.pdb
+C:\Users\cmuon\OneDrive\Desktop\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.genruntimeconfig.cache
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\bin\Debug\net6.0\SupportQuestionsApplication.exe
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\bin\Debug\net6.0\SupportQuestionsApplication.deps.json
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\bin\Debug\net6.0\SupportQuestionsApplication.runtimeconfig.json
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\bin\Debug\net6.0\SupportQuestionsApplication.dll
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\bin\Debug\net6.0\ref\SupportQuestionsApplication.dll
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\bin\Debug\net6.0\SupportQuestionsApplication.pdb
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.csproj.AssemblyReference.cache
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.AssemblyInfoInputs.cache
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.AssemblyInfo.cs
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.csproj.CoreCompileInputs.cache
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.csproj.CopyComplete
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.dll
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\ref\SupportQuestionsApplication.dll
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.pdb
+C:\Users\cmuon\OneDrive\Desktop\COIS 3040\Assignment\COIS3040_Assignment_1\Assignment1\client-server-program\SupportQuestionsApplication_server\SupportQuestionsApplication\SupportQuestionsApplication\obj\Debug\net6.0\SupportQuestionsApplication.genruntimeconfig.cache
